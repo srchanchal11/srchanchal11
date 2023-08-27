@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **srchanchal11/srchanchal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![srchanchal11's GitHub | Stats](https://stats.quine.sh/srchanchal11/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srchanchal11)
